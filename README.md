@@ -1,5 +1,5 @@
-jenkins-run-notifier
-====================
+jenkins-run-notifier-plugin
+===========================
 
 Send a HTTP POST request to a configured URI when the run status of a job
 changes. The data is sent in JSON format and looks about as follows:
