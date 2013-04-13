@@ -1,0 +1,14 @@
+<j:jelly xmlns:j="jelly:core"
+         xmlns:st="jelly:stapler"
+         xmlns:d="jelly:define"
+         xmlns:l="/lib/layout"
+         xmlns:t="/lib/hudson"
+         xmlns:f="/lib/form"
+>
+  <f:section title="Run Status Notifier">
+    <f:entry title="URI" field="uri"
+      description="URI where the notification should be sent to">
+      <f:textbox />
+    </f:entry>
+  </f:section>
+</j:jelly>

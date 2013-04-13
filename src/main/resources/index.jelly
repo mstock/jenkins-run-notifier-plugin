@@ -1,0 +1,3 @@
+<div>
+  Plugin to send an HTTP POST request on build start, completion and finalization.
+</div>
